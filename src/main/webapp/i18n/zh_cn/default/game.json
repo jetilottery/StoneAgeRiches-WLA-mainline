@@ -1,0 +1,76 @@
+{
+	"version":"4-20-2017-4:51pm-SM-en_us_02",
+	"audioLoader": {
+		"yes": "是",
+		"no": "否",
+		"confirm": "是否打开音乐?"
+	},
+	"Paytable": {
+		"RTPvalue": "{@minRTP}%",
+		"RTPrange": "{@minRTP}% to {@maxRTP}%"
+	},
+	"title": "掘金部落",
+	"MenuCommand": {
+				"WLA":{
+					"howToPlay": "游戏规则",
+		"payTable": "赔率表",
+					"price": "投注列表",
+					"stake": "单注金额",
+					"balance": "余额" 
+				},
+				"Commercial":{
+					"howToPlay": "游戏规则",
+		"payTable": "赔率表",
+					"price": "投注列表",
+					"stake": "单注金额",
+					"balance": "余额" 
+				},
+				"audio": {
+					"on": "是",
+					"off": "否",
+					"sound": "声音"
+				}
+	  },
+	"Error": {
+		"insufficientFunds": "Insufficient funds to spin."
+	},
+	"Game": {
+		"demo": 								"试玩 ",
+		"button_play": 							"开始",
+		"button_buy": 							"购买",
+		"button_try": 							"试玩 ",
+		"button_restart":						"再玩一次",
+		"button_tryRestart":					"再玩一次",
+		"button_move2moneyGame":				"现金游戏",
+		"wagerDim":  							"单注金额",
+		"wager":								"单注金额: ",
+		"balance":								"余额: ",
+		"wins":									"奖励: ",
+		"wins_demo":							"试玩奖励: ",
+		"button_reveal":						"全开",
+		"message_nonWin":						"下次好运",
+		"message_buyWin":						"恭喜!你赢得了",
+		"message_tryWin":						"恭喜!运气不错\n试试现金游戏吧",
+		"message_anonymous_tryWin":				"恭喜!运气不错",
+		"button_close":                         "关闭",
+		"button_ok":                         "关闭",
+		"button_exit":							"离开",
+		"error_button_exit":                    "退出",
+		"warning_button_continue": 				"继续",
+		"warning_button_exitGame": 				"退出游戏",
+		"error_title":							"错误",
+		
+		"meter_division":						" | ",
+		"exclamation_point":  					"!",
+		"ui_winUpToAmount":						"最高可得",
+		"help_instruction":						"玩法说明",
+		
+		"help_text00":							"点击石板可以找到不同颜色的宝石。",
+		"help_text01":							"在任意一组石板中发现3个颜色相同的宝石\n即可赢得对应的奖励。",
+		"help_text02":							"当发现神秘的即开奖宝石时，可以直接获得对应的奖励。",
+		
+		"gameRules": 							"Stone Age Riches",
+		"payTable": 							"Stone Age Riches",
+		"buttonClose":             				"X"
+	}
+}

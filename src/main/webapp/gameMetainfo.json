@@ -1,0 +1,9 @@
+{
+  "game": {
+    "name": "StoneAgeRiches", 
+    "id": "300-2057-0", 
+    "framework": "jet",
+    "version": "1.0.20", 
+    "studio": "interactive" 
+  }
+}

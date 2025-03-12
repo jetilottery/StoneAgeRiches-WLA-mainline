@@ -1,0 +1,94 @@
+{
+    "version": "4-20-2017-4:51pm-SM-en_us_02",
+    "audioLoader":
+    {
+        "yes": "Ja",
+        "no": "Nee",
+        "confirm": "Wil je geluid?"
+    },
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "from {@minRTP}% to {@maxRTP}%",
+        "paybackTitle": "Expected Payback",
+        "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+        "hardCodeRTP": "from 85.00% to 93.00%"
+    },
+    "title": "Prehistoric Treasures",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Hoe spelen?",
+            "payTable": "Wat kan je winnen?",
+            "price": "Inzet",
+            "stake": "Inzet",
+            "balance": "Balance",
+            "prizeDivision": "Prize Division",
+            "prizeValue": "Prize Value",
+            "approximatePrize": "Approximate Prizes Remaining",
+            "oddsPerPlay": "Odds Per Play",
+            "overAllOdds": "There is a 1 in {oddNum} overall chance of winning a prize on each play.",
+            "availablePrices": "Available Price Points:{prices}"
+        },
+        "Commercial":
+        {
+            "howToPlay": "Hoe spelen?",
+            "payTable": "Wat kan je winnen?",
+            "price": "Inzet",
+            "stake": "Inzet",
+            "balance": "Balance"
+        },
+        "audio":
+        {
+            "on": "Aan",
+            "off": "Uit",
+            "sound": "Geluid"
+        }
+    },
+    "Error":
+    {
+        "insufficientFunds": "Insufficient funds to spin."
+    },
+    "Game":
+    {
+        "loading_screen_loading": "LOADING",
+        "demo": "DEMO ",
+        "button_play": "PLAY",
+        "button_buy": "KOPEN",
+        "button_try": "DEMO ",
+        "button_restart": "KOPEN",
+        "button_tryRestart": "DEMO ",
+        "button_move2moneyGame": "KOPEN",
+        "wagerDim": "INZET",
+        "wager": "Inzet:",
+        "balance": "Balance: ",
+        "wins": "Winst:",
+        "wins_demo": "Demo: ",
+        "button_reveal": "AUTOPLAY",
+        "message_nonWin": "Helaas, geen winst",
+        "message_buyWin": "Je wint!",
+        "message_tryWin": "Een demospel geeft geen recht op winst.",
+        "message_anonymous_tryWin": "Een demospel geeft geen recht op winst.",
+        "button_exit": "VERLATEN",
+        "session_timeout_warning_exit_button": "VERLATEN",
+        "PrizeXBonus": "HOW TO PLAY",
+        "error_button_exit": "EXIT",
+        "warning_button_continue": "KEEP PLAYING",
+        "warning_button_exitGame": "EXIT",
+        "error_title": "ERROR",
+        "button_close": "SLUITEN",
+        "button_ok": "SLUITEN",
+        "meter_division": " | ",
+        "exclamation_point": "!",
+        "ui_winUpToAmount": "WIN TOT",
+        "help_instruction": "HOE SPELEN?",
+        "prizeIntroduction": "Winnend nummer",
+        "help_text00": "Selecteer alle stenen in de spelen 1 tot 6. Elk spel wordt apart gespeeld.",
+        "help_text01": "Verschijnen er 3 dezelfde edelstenen in 1 spel? Dan win je het bijbehorende bedrag.",
+        "help_text02": "Ontdek het gele kristal en win onmiddellijk het bijbehorende bedrag!",
+        "gameRules": "Prehistoric Treasures",
+        "payTable": "Prehistoric Treasures",
+        "buttonClose": "X"
+    }
+}

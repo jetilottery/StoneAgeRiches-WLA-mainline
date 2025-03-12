@@ -1,0 +1,20 @@
+{"frames": {
+
+"logo.png":
+{
+	"frame": {"x":1,"y":1,"w":217,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":217,"h":72},
+	"sourceSize": {"w":220,"h":74}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "logo.png",
+	"format": "RGBA8888",
+	"size": {"w":219,"h":74},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5ce57810eacb33159513863b67c47f45:e66290bc52425aabbb10e0b84b56b90e:20eb291c86fd7b67d1ef2c36dbf83e55$"
+}
+}

@@ -1,0 +1,94 @@
+{
+    "version": "4-20-2017-4:51pm-SM-en_us_02",
+    "audioLoader":
+    {
+        "yes": "Ja",
+        "no": "Nein",
+        "confirm": "Mit Ton?"
+    },
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "from {@minRTP}% to {@maxRTP}%",
+        "paybackTitle": "Expected Payback",
+        "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+        "hardCodeRTP": "from 85.00% to 93.00%"
+    },
+    "title": "Prehistoric Treasures",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Spielanleitung",
+            "payTable": "Was kann man gewinnen?",
+            "price": "Einsatz",
+            "stake": "Einsatz",
+            "balance": "Balance",
+            "prizeDivision": "Prize Division",
+            "prizeValue": "Prize Value",
+            "approximatePrize": "Approximate Prizes Remaining",
+            "oddsPerPlay": "Odds Per Play",
+            "overAllOdds": "There is a 1 in {oddNum} overall chance of winning a prize on each play.",
+            "availablePrices": "Available Price Points:{prices}"
+        },
+        "Commercial":
+        {
+            "howToPlay": "Spielanleitung",
+            "payTable": "Was kann man gewinnen?",
+            "price": "Einsatz",
+            "stake": "Einsatz",
+            "balance": "Balance"
+        },
+        "audio":
+        {
+            "on": "An",
+            "off": "Aus",
+            "sound": "Ton"
+        }
+    },
+    "Error":
+    {
+        "insufficientFunds": "Insufficient funds to spin."
+    },
+    "Game":
+    {
+        "loading_screen_loading": "LOADING",
+        "demo": "DEMO ",
+        "button_play": "PLAY",
+        "button_buy": "KAUFEN",
+        "button_try": "DEMO ",
+        "button_restart": "KAUFEN",
+        "button_tryRestart": "DEMO ",
+        "button_move2moneyGame": "KAUFEN",
+        "wagerDim": "EINSATZ",
+        "wager": "Einsatz:",
+        "balance": "Balance: ",
+        "wins": "Gewinn:",
+        "wins_demo": "Demo: ",
+        "button_reveal": "AUTOPLAY",
+        "message_nonWin": "Schade, kein Gewinn.",
+        "message_buyWin": "Sie gewinnen",
+        "message_tryWin": "Ein Demospiel gibt keinen Anspruch auf Gewinn.",
+        "message_anonymous_tryWin": "Ein Demospiel gibt keinen Anspruch auf Gewinn.",
+        "button_exit": "BEENDEN",
+        "session_timeout_warning_exit_button": "EXIT",
+        "PrizeXBonus": "HOW TO PLAY",
+        "error_button_exit": "EXIT",
+        "warning_button_continue": "KEEP PLAYING",
+        "warning_button_exitGame": "EXIT",
+        "error_title": "ERROR",
+        "button_close": "SCHLIESSEN",
+        "button_ok": "SCHLIESSEN",
+        "meter_division": " | ",
+        "exclamation_point": "!",
+        "ui_winUpToAmount": "GEWINNEN SIE BIS ZU",
+        "help_instruction": "SPIELANLEITUNG",
+        "prizeIntroduction": "Gewinnende nummer",
+        "help_text00": "Wählen Sie in den Spielen 1 bis 6 alle Steine aus. Jedes Spiel wird gesondert gespielt.",
+        "help_text01": "Erscheinen in 1 Spiel drei identische Edelsteine? Dann gewinnen Sie den dazugehörigen Betrag.",
+        "help_text02": "Entdecken Sie den gelben Kristall und gewinnen Sie sofort den dazugehörigen Betrag!",
+        "gameRules": "Prehistoric Treasures",
+        "payTable": "Prehistoric Treasures",
+        "buttonClose": "X"
+    }
+}

@@ -1,0 +1,86 @@
+{
+	"version": "4-20-2017-4:51pm-SM-en_us_02",
+	"audioLoader": {
+		"yes": "Oui",
+		"no": "Non",
+		"confirm": "Activer le son ?"
+	},
+	"Paytable": {
+		"RTPvalue": "{@minRTP}%",
+		"RTPrange": "from {@minRTP}% to {@maxRTP}%",
+		"paybackTitle": "Expected Payback",
+		"paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+		"hardCodeRTP": "from 85.00% to 93.00%"
+	},
+	"title": "Prehistoric Treasures",
+	"MenuCommand": {
+		"WLA": {
+			"howToPlay": "Comment jouer ?",
+			"payTable": "Que peut-on gagner ?",
+			"price": "Mise",
+			"stake": "Mise",
+			"balance": "Balance",
+            "prizeDivision": "Prize Division",
+			"prizeValue": "Prize Value",
+			"approximatePrize": "Approximate Prizes Remaining",
+			"oddsPerPlay": "Odds Per Play",
+            "overAllOdds": "There is a 1 in {oddNum} overall chance of winning a prize on each play.",
+            "availablePrices": "Available Price Points:{prices}"
+		},
+		"Commercial": {
+			"howToPlay": "Comment jouer ?",
+			"payTable": "Que peut-on gagner ?",
+			"price": "Mise",
+			"stake": "Mise",
+			"balance": "Balance"
+		},
+		"audio": {
+			"on": "Activé",
+			"off": "Désactivé",
+			"sound": "Son"
+		}
+	},
+	"Error": {
+		"insufficientFunds": "Insufficient funds to spin."
+	},
+	"Game": {
+		"loading_screen_loading": "LOADING",
+		"demo": "DEMO ",
+		"button_play": "PLAY",
+		"button_buy": "ACHETER",
+		"button_try": "DÉMO ",
+		"button_restart": "ACHETER",
+		"button_tryRestart": "DÉMO ",
+		"button_move2moneyGame": "ACHETER",
+		"wagerDim": "MISE",
+		"wager": "Mise : ",
+		"balance": "Balance: ",
+		"wins": "Gain : ",
+		"wins_demo": "Démo : ",
+		"button_reveal": "AUTOPLAY",
+		"message_nonWin": "Dommage, pas de gain.",
+		"message_buyWin": "Vous gagnez",
+		"message_tryWin": "Une démo du jeu ne donne droit à aucun gain.",
+		"message_anonymous_tryWin": "Une démo du jeu ne donne droit à aucun gain.",
+		"button_exit": "QUITTER",
+		"session_timeout_warning_exit_button": "QUITTER",
+		"PrizeXBonus": "HOW TO PLAY",
+		"error_button_exit": "EXIT",
+		"warning_button_continue": "KEEP PLAYING",
+		"warning_button_exitGame": "EXIT",
+		"error_title": "ERROR",
+		"button_close": "FERMER",
+						"button_ok": 							"FERMER",
+		"meter_division": " | ",
+		"exclamation_point": "!",
+		"ui_winUpToAmount": "GAGNEZ JUSQU’À",
+		"help_instruction": "COMMENT JOUER ?",
+		"prizeIntroduction": "Numéro gagnant",
+		"help_text00": "Sélectionnez toutes les pierres dans les jeux 1 à 6. Chaque jeu se joue séparément.",
+		"help_text01": "3 pierres précieuses identiques apparaissent-elles dans le même jeu? Alors vous gagnez le montant correspondant.",
+		"help_text02": "Découvrez  le cristal jaune et gagnez immédiatement le montant correspondant ! ",
+		"gameRules": "Prehistoric Treasures",
+		"payTable": "Prehistoric Treasures",
+		"buttonClose": "X"
+	}
+}

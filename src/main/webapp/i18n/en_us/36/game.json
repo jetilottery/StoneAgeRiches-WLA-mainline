@@ -1,0 +1,86 @@
+{
+	"version":"4-20-2017-4:51pm-SM-en_us_02",
+	"audioLoader": {
+		"yes": "Yes",
+		"no": "No",
+		"confirm": "Would you like sound?"
+	},
+	"Paytable": {
+		"RTPvalue": "{@minRTP}%",
+		"RTPrange": "from {@minRTP}% to {@maxRTP}%",
+		"paybackTitle": "Expected Payback",
+		"paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+		"hardCodeRTP": "from 85.00% to 93.00%"
+	},
+	"title": "Prehistoric Treasures",
+	 "MenuCommand": {
+				"WLA":{
+					"howToPlay": "Help",
+		"payTable": "Paytable",
+					"price": "Price",
+					"stake": "Stake",
+					"balance": "Balance",
+            "prizeDivision": "Prize Division",
+			"prizeValue": "Prize Value",
+			"approximatePrize": "Approximate Prizes Remaining",
+			"oddsPerPlay": "Odds Per Play",
+            "overAllOdds": "There is a 1 in {oddNum} overall chance of winning a prize on each play.",
+            "availablePrices": "Available Price Points:{prices}"
+				},
+				"Commercial":{
+					"howToPlay": "Game Rules",
+		"payTable": "Paytable",
+					"price": "Price",
+					"stake": "Stake",
+					"balance": "Balance" 
+				},
+				"audio": {
+					"on": "On",
+					"off": "Off",
+					"sound": "Sound"
+				}
+	  },
+	"Error": {
+		"insufficientFunds": "Insufficient funds to spin."
+	},
+	"Game": {
+		"demo": 								"Ticket Cost: TRY ",
+		"button_play": 							"PLAY",
+		"button_buy": 							"BUY",
+		"button_try": 							"TRY ",
+		"button_restart":						"PLAY AGAIN",
+		"button_tryRestart":					"TRY AGAIN",
+		"button_move2moneyGame":				"MOVE TO MONEY",
+		"wagerDim":  							"TICKET COST",
+		"wager":								"Ticket Cost: ",
+		"balance":								"Balance: ",
+		"wins":									"Win: ",
+		"wins_demo":							"Demo Win: ",
+		"button_reveal":						"REVEAL ALL",
+		"message_nonWin":						"BETTER LUCK\nNEXT TIME",
+		"message_buyWin":						"Congratulations!\nYou have won",
+		"message_tryWin":						"Thanks for playing!\nYou could have won",
+		"message_anonymous_tryWin":				"Thanks for playing!\nYou could have won",
+		"button_exit":							"EXIT",
+		"error_button_exit":                    "EXIT",
+		"warning_button_continue": 				"KEEP PLAYING",
+		"warning_button_exitGame": 				"EXIT",
+		"error_title":							"ERROR",
+		"button_close":                         "CLOSE",
+		"button_ok": 							"OK",
+		"meter_division":						" | ",
+		"exclamation_point":					"!",
+		"ui_winUpToAmount":						"WIN UP TO",
+		"help_instruction":						"HOW TO PLAY",
+		
+		
+		"help_text00":							"Click/tap the flagstones in each row to reveal gems or instant win crystals, and click/tap the rock to reveal the row's prize value.",
+		"help_text01":							"Find 3 identical gems in any row to win the row's prize value.",
+		"help_text02":							"Find an instant win crystal to win the row's prize value instantly!",
+			
+		"gameRules": 							"Prehistoric Treasures",
+		"payTable": 							"Prehistoric Treasures",
+		"buttonClose":             				"X",
+        "paytableWager": "Ticket Cost: "
+	}
+}
